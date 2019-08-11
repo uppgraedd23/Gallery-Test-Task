@@ -1,0 +1,8 @@
+.list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.list_item {
+    list-style-type: none;
+}
